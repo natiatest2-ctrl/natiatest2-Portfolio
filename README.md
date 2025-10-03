@@ -1,7 +1,14 @@
 # natiatest2-Portfolio
 manual qa engineer portfolio showcasing testing documentation
 
+ Skills
 
+
+
+
+
+
+ 
 # ჩემს შესახებ
 ## ნაკლებად მაღალი
 
@@ -27,3 +34,40 @@ manual qa engineer portfolio showcasing testing documentation
 
 
 [ჩემი ლინკდინის პროფილი](https://dressup.ge/en/75-men)
+
+
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfgdgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+
+
+
+
+
+
+dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
+
+
+
+[Skills](#more-about-my-skills)
+
+
+
+
+
+
+
+
+
+
+

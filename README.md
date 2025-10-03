@@ -24,3 +24,6 @@ manual qa engineer portfolio showcasing testing documentation
 
 
 ----------------------------------------------------------------------------------------------
+
+
+[ჩემი ლინკდინის პროფილი](https://dressup.ge/en/75-men)

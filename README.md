@@ -1,7 +1,7 @@
 # natiatest2-Portfolio
 manual qa engineer portfolio showcasing testing documentation
 
- Skills
+ [Skills](#more-about-my-skills)
 
 
 
@@ -154,7 +154,7 @@ dgdsfgdsfg dsfgsdfgd fgds fgd fgdf gfd g sfg sfg sf g sfg
 
 
 
-[Skills](#more-about-my-skills)
+
 
 # more about my skills
 
